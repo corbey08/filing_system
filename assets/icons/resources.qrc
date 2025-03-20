@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>light_open.png</file>
+    <file>light_delete.png</file>
+    <file>light_audit.png</file>
+    <file>dark_logo.jpg</file>
+    <file>dark_app.png</file>
+    <file>light_day.png</file>
+    <file>light_night.png</file>
+    <file>app.png</file>
+    <file>light_back.png</file>
+    <file>light_bug.png</file>
+    <file>light_close.png</file>
+    <file>light_file.png</file>
+    <file>light_forward.png</file>
+    <file>light_home.png</file>
+    <file>light_logo.jpg</file>
+    <file>light_search.png</file>
+    <file>app.ico</file>
+  </qresource>
+</RCC>

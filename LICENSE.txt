@@ -1,0 +1,5 @@
+Copyright (c) 2025 Greg Corbett
+
+This software is provided for personal and commercial use but may not be modified, decompiled or redistributed in any form without explicit permission from the author.
+
+By using this software, you agree to these terms.
